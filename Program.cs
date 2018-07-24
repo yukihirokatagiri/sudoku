@@ -6,6 +6,7 @@ namespace Sudoku
 	{
 
 		
+		
 		private const int TABLE_SIZE = 9;
 		private int[,] table = {
 			{ 8, 0, 0,    0, 0, 0,    0, 0, 0 },
